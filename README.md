@@ -23,4 +23,4 @@ Arborescence minimale
 Conseils
 - Ouvrez `index.html` avec Live Server.
 
-Auteur: (à compléter par l’élève)
+Auteur: (chennoufi rayan)
