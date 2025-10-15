@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Éventuels builds/dépendances
+node_modules/
+dist/
+
+# Logs
+*.log
